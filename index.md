@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an underrgtaduate student at Penn State University, University Park
+I am an undergraduate student at Penn State University, University Park
 
 ## Research Interests
 
